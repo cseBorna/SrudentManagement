@@ -1,0 +1,2 @@
+# SrudentManagement
+Python, Tkinter (database)
